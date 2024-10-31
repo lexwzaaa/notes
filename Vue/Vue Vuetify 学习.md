@@ -37,6 +37,7 @@ Vuetify.js - Material Component Framework for Vue
 	项目使用的是unplugin-vue-router这个插件来自动配置路由而不用繁琐的手动写路由json对象，他可以根据src/pages下的文件来自动映射出相对的路由。
 	[插件具体使用说明](https://uvr.esm.is/introduction)
 ### 	例子
+
 	
 	```sh
 	src/pages/
